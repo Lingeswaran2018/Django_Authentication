@@ -13,10 +13,9 @@ A modern authentication system built with **Django**, featuring a **beautiful UI
 ## **📸 Screenshots**  
 | Signup Page | Login Page | Dashboard |
 |------------|-----------|------------|
-| ![Signup](![image](https://github.com/user-attachments/assets/05df33b8-bd88-4948-9a23-f0fa39b78380)
-) | ![Login](![image](https://github.com/user-attachments/assets/f9acbd97-e757-472e-a50e-20c88c8fa1c0)
-) | ![Dashboard](![image](https://github.com/user-attachments/assets/9f9476d6-bffd-4404-b6c6-9f0cf1d44169)
-) |
+| ![Signup](https://github.com/user-attachments/assets/05df33b8-bd88-4948-9a23-f0fa39b78380)) 
+| ![Login](https://github.com/user-attachments/assets/f9acbd97-e757-472e-a50e-20c88c8fa1c0)) 
+| ![Dashboard](https://github.com/user-attachments/assets/9f9476d6-bffd-4404-b6c6-9f0cf1d44169)) |
 
 ## **🛠 Installation**  
 1. **Clone the repository**  
