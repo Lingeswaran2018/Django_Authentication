@@ -20,7 +20,7 @@ A modern authentication system built with **Django**, featuring a **beautiful UI
 
 2. **Create a virtual environment**  
    ```bash
-   python -m venv venv
+   python -m venv .venv
    .venv\Scripts\activate
    ```
 
