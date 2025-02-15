@@ -21,7 +21,7 @@ A modern authentication system built with **Django**, featuring a **beautiful UI
 2. **Create a virtual environment**  
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   .venv\Scripts\activate
    ```
 
 3. **Install dependencies**  
