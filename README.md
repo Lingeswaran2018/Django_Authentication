@@ -56,6 +56,9 @@ A modern authentication system built with **Django**, featuring a **beautiful UI
 │── requirements.txt          # Dependencies
 ```
 
+Visit my medium article about building a authentication in Django **`https://medium.com/@lingalingeswaran99/building-a-stylish-django-authentication-system-with-a-beautiful-dashboard-f1b4958212b4`** 
+
+
 ## **📜 License**  
 This project is open-source under the **MIT License**.  
 
